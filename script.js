@@ -1,1 +1,3 @@
-// it the stnatx for commit in java script
+
+# it is the syntax for an comment in javascript
+
